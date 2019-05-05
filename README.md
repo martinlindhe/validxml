@@ -28,8 +28,6 @@ Exit code will be 0 if file is good.
 
     $ validxml -p file.xml
 
-XXX
-
 
 ## License
 
