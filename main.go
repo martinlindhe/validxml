@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"os"
 
+	"github.com/alecthomas/kingpin/v2"
 	termutil "github.com/andrew-d/go-termutil"
 	"github.com/beevik/etree"
-	"gopkg.in/alecthomas/kingpin.v2"
 )
 
 var (
